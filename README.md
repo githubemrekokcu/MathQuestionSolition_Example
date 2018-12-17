@@ -1,7 +1,8 @@
 # MathQuestionSolition_Example
 C++ Math Question Solition
 
-###Question:<br>
+### Question:
+
 Write a program that applies the Cramer method used to solve linear equations. Let us assume that the linear equations are given as follows.
 <br>
 ![linear_equation_1](https://user-images.githubusercontent.com/45900778/50109195-28632d80-0248-11e9-9aea-3f49cb439d6c.png)
